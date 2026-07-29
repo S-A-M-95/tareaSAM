@@ -1,0 +1,12 @@
+PARA SUBIR CAMBIOS
+
+git init
+git add .
+git commit -m "texto cualquiera descriptivo"
+git push
+
+
+PARA BAJAR CAMBIOS A MI PC
+
+git init
+git pull
